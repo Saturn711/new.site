@@ -39,5 +39,12 @@
 	<div>
 		<p>Это еще одна строка в ветке master</p>
 	</div>
+	<div>
+		<p>
+			<a href="#">Hello</a>
+			<a href="#">Hello</a>
+			<a href="#">Hello</a>
+		</p>
+	</div>
 </body>
 </html>
