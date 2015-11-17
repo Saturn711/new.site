@@ -35,5 +35,8 @@
 	<div>
 		<p>Это у нас branch master</p>
 	</div>
+	<div>
+		<p>Это еще одна строка в ветке master</p>
+	</div>
 </body>
 </html>
