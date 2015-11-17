@@ -33,7 +33,7 @@
 		<p>Это третий добавленый абзац</p>
 	</div>
 	<div>
-		<p>Hello new branch</p>
+		<p>Hello world</p>
 	</div>
 </body>
 </html>
