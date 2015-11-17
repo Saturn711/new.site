@@ -32,5 +32,8 @@
 	<div>
 		<p>Это третий добавленый абзац</p>
 	</div>
+	<div>
+		<p>Это у нас branch master</p>
+	</div>
 </body>
 </html>
